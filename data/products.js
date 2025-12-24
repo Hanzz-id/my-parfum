@@ -1,7 +1,7 @@
 const PRODUCTS = [
   {
     id: 1,
-    name: 'Dior Sauvage',
+    name: 'Black Opium',
     description: 'Aroma maskulin yang kuat dan segar dengan sentuhan pedas',
     price: 1850000,
     image: 'https://images.unsplash.com/photo-1541643600914-78b084683601?w=800&q=80',
